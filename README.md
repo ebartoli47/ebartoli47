@@ -21,7 +21,7 @@
 - Egresado de la Fundacion Empujar
 - Actualmente cursando Analista en Help Desk para formarme mas
 - Web Personal [link](lorep impsum)
-- Titulo Técnico Secundario en Programación
+- Titulo Secundario Técnico en Programación
 
 <br><br>
 
