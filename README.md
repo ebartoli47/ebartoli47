@@ -11,17 +11,17 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
 - Estudiante en Programación Full Stack
-- Recibido de la Fundacion Empujar
-- Actualmente cursando Analista en Help Desk
-- Personal website [link](lorep impsum)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Egresado de la Fundacion Empujar
+- Actualmente cursando Analista en Help Desk para formarme mas
+- Web Personal [link](lorep impsum)
+- Titulo Técnico Secundario en Programación
 
 <br><br>
 
