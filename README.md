@@ -20,7 +20,7 @@
 - Estudiante en Programación Full Stack
 - Egresado de la Fundacion Empujar
 - Actualmente cursando Analista en Help Desk para formarme mas
-- Web Personal: [https://ebartoli47.github.io/portfolio/]
+- Web Personal: [https://ebartoli47.github.io/curriculum/]
 - Titulo Secundario Técnico en Programación
 
 <br><br>
